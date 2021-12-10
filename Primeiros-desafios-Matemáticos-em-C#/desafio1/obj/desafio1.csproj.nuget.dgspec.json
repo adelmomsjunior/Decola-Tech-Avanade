@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junin\\Documents\\0PastaGitHub\\Cursos\\Decola Tech Avanade\\Primeiros desafios Matemáticos em C#\\desafio1\\desafio1.csproj": {}
+    "C:\\Users\\junin\\Documents\\0GitHub\\Decola-Tech-Avanade\\Primeiros-desafios-Matemáticos-em-C#\\desafio1\\desafio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junin\\Documents\\0PastaGitHub\\Cursos\\Decola Tech Avanade\\Primeiros desafios Matemáticos em C#\\desafio1\\desafio1.csproj": {
+    "C:\\Users\\junin\\Documents\\0GitHub\\Decola-Tech-Avanade\\Primeiros-desafios-Matemáticos-em-C#\\desafio1\\desafio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junin\\Documents\\0PastaGitHub\\Cursos\\Decola Tech Avanade\\Primeiros desafios Matemáticos em C#\\desafio1\\desafio1.csproj",
+        "projectUniqueName": "C:\\Users\\junin\\Documents\\0GitHub\\Decola-Tech-Avanade\\Primeiros-desafios-Matemáticos-em-C#\\desafio1\\desafio1.csproj",
         "projectName": "desafio1",
-        "projectPath": "C:\\Users\\junin\\Documents\\0PastaGitHub\\Cursos\\Decola Tech Avanade\\Primeiros desafios Matemáticos em C#\\desafio1\\desafio1.csproj",
+        "projectPath": "C:\\Users\\junin\\Documents\\0GitHub\\Decola-Tech-Avanade\\Primeiros-desafios-Matemáticos-em-C#\\desafio1\\desafio1.csproj",
         "packagesPath": "C:\\Users\\junin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junin\\Documents\\0PastaGitHub\\Cursos\\Decola Tech Avanade\\Primeiros desafios Matemáticos em C#\\desafio1\\obj\\",
+        "outputPath": "C:\\Users\\junin\\Documents\\0GitHub\\Decola-Tech-Avanade\\Primeiros-desafios-Matemáticos-em-C#\\desafio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\junin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\junin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
